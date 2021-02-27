@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/material-form/static/css/main.f29ae65a.chunk.css",
-    "main.js": "/material-form/static/js/main.d2ea09bc.chunk.js",
-    "main.js.map": "/material-form/static/js/main.d2ea09bc.chunk.js.map",
+    "main.js": "/material-form/static/js/main.eb59cf30.chunk.js",
+    "main.js.map": "/material-form/static/js/main.eb59cf30.chunk.js.map",
     "runtime-main.js": "/material-form/static/js/runtime-main.d1cb45d8.js",
     "runtime-main.js.map": "/material-form/static/js/runtime-main.d1cb45d8.js.map",
-    "static/js/2.f66b8ab3.chunk.js": "/material-form/static/js/2.f66b8ab3.chunk.js",
-    "static/js/2.f66b8ab3.chunk.js.map": "/material-form/static/js/2.f66b8ab3.chunk.js.map",
+    "static/js/2.7d570ad2.chunk.js": "/material-form/static/js/2.7d570ad2.chunk.js",
+    "static/js/2.7d570ad2.chunk.js.map": "/material-form/static/js/2.7d570ad2.chunk.js.map",
     "index.html": "/material-form/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "/material-form/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.f66b8ab3.chunk.js.LICENSE.txt": "/material-form/static/js/2.f66b8ab3.chunk.js.LICENSE.txt"
+    "static/js/2.7d570ad2.chunk.js.LICENSE.txt": "/material-form/static/js/2.7d570ad2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1cb45d8.js",
-    "static/js/2.f66b8ab3.chunk.js",
+    "static/js/2.7d570ad2.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.d2ea09bc.chunk.js"
+    "static/js/main.eb59cf30.chunk.js"
   ]
 }
