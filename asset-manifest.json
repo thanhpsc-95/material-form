@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/material-form/static/css/main.f29ae65a.chunk.css",
-    "main.js": "/material-form/static/js/main.0529e25d.chunk.js",
-    "main.js.map": "/material-form/static/js/main.0529e25d.chunk.js.map",
+    "main.js": "/material-form/static/js/main.33d80d7e.chunk.js",
+    "main.js.map": "/material-form/static/js/main.33d80d7e.chunk.js.map",
     "runtime-main.js": "/material-form/static/js/runtime-main.d1cb45d8.js",
     "runtime-main.js.map": "/material-form/static/js/runtime-main.d1cb45d8.js.map",
     "static/js/2.fe590990.chunk.js": "/material-form/static/js/2.fe590990.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d1cb45d8.js",
     "static/js/2.fe590990.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.0529e25d.chunk.js"
+    "static/js/main.33d80d7e.chunk.js"
   ]
 }
