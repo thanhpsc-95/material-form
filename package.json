@@ -1,0 +1,46 @@
+{
+  "homepage": "http://thanhpsc-95.github.io/material-form",
+  "name": "material-form",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "material-form",
+    "react-hook-form"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@babel/runtime": "7.12.18",
+    "@hookform/resolvers": "1.3.4",
+    "@material-ui/core": "4.11.3",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "4.0.0-alpha.57",
+    "@material-ui/pickers": "3.2.10",
+    "history": "^5.0.0",
+    "npm-lifecycle": "3.1.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-hook-form": "6.15.4",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.0",
+    "yup": "0.32.9"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
