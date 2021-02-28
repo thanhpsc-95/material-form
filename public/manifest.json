@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Material Form",
+  "name": "Material Form By Hook an Yup",
   "icons": [
     {
       "src": "favicon.ico",
