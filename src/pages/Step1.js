@@ -8,7 +8,6 @@ import { MainContainer } from "../components/MainContainer";
 import { Typography } from "@material-ui/core";
 import { Fab } from "@material-ui/core";
 import { useHistory } from "react-router-dom";
-import { useTitle } from "../hooks/useTitle";
 
 export const Step1 = ({ ...props }) => {
   const history = useHistory();
